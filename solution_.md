@@ -8,3 +8,6 @@ JT Harvey, Applied Ergonomics, 2002: An analysis of the forces required to drag 
 DW Ziegler et al., 2005:  The neurocognitive effects of alcohol on adolescents and college students
 
 ## Plot
+![plot](plot.png)
+
+The plot shows a positive correlation between the beer consumed per year and WO per year. However, from this data, it cannot be concluded that there is a causal link between the two.
